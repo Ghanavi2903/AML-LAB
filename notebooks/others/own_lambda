@@ -1,0 +1,4 @@
+
+largest = lambda x, y: x if x > y else y
+
+print("Largest number is:", largest(15, 25))
